@@ -1,1 +1,3 @@
-![stepmotor](https://github.com/user-attachments/assets/9cd72b65-ed94-4500-911a-005e48150fae)
+
+
+<img width="100" height="100" src="![stepmotor](https://github.com/user-attachments/assets/986fa088-0d94-498e-bb3f-66ace0a8b235)" />
